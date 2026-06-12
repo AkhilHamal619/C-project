@@ -1,3 +1,4 @@
+//Bisection method using C language
 #include<stdio.h>
 #include<math.h>
 
